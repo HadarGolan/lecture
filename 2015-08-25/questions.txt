@@ -21,3 +21,4 @@ Consider the following questions:
 2. What about a simple model to predict time for one person to count?
 3. How big should the class be before the parallel method takes less time?
 
+OK, I understand the protocol.
